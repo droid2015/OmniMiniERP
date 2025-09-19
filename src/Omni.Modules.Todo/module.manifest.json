@@ -1,0 +1,8 @@
+{
+    "name": "omni.todo",
+    "title": "Omni.Modules.Todo",
+    "version": "1.0.0",
+    "depends": [ "omni.base" ],
+    "migrationsAssembly": "Omni.Modules.Todo",
+    "installable": true
+}

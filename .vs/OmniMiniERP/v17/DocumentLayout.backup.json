@@ -1,0 +1,190 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\binhnt.it\\OmniMiniERP\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C18E7FB1-2113-4660-B27F-790607F28505}|src\\Omni.Web\\Omni.Web.csproj|c:\\users\\binhnt.it\\omniminierp\\src\\omni.web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C18E7FB1-2113-4660-B27F-790607F28505}|src\\Omni.Web\\Omni.Web.csproj|solutionrelative:src\\omni.web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C18E7FB1-2113-4660-B27F-790607F28505}|src\\Omni.Web\\Omni.Web.csproj|c:\\users\\binhnt.it\\omniminierp\\src\\omni.web\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{C18E7FB1-2113-4660-B27F-790607F28505}|src\\Omni.Web\\Omni.Web.csproj|solutionrelative:src\\omni.web\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7611376-3A0F-4290-BF8A-B2EB38E11255}|src\\Omni.Modules.Todo\\Omni.Modules.Todo.csproj|c:\\users\\binhnt.it\\omniminierp\\src\\omni.modules.todo\\todostartup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D7611376-3A0F-4290-BF8A-B2EB38E11255}|src\\Omni.Modules.Todo\\Omni.Modules.Todo.csproj|solutionrelative:src\\omni.modules.todo\\todostartup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7611376-3A0F-4290-BF8A-B2EB38E11255}|src\\Omni.Modules.Todo\\Omni.Modules.Todo.csproj|c:\\users\\binhnt.it\\omniminierp\\src\\omni.modules.todo\\modelconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D7611376-3A0F-4290-BF8A-B2EB38E11255}|src\\Omni.Modules.Todo\\Omni.Modules.Todo.csproj|solutionrelative:src\\omni.modules.todo\\modelconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7611376-3A0F-4290-BF8A-B2EB38E11255}|src\\Omni.Modules.Todo\\Omni.Modules.Todo.csproj|c:\\users\\binhnt.it\\omniminierp\\src\\omni.modules.todo\\domain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D7611376-3A0F-4290-BF8A-B2EB38E11255}|src\\Omni.Modules.Todo\\Omni.Modules.Todo.csproj|solutionrelative:src\\omni.modules.todo\\domain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25549888-A541-446F-A6EE-650A9C9775A9}|src\\Omni.Infrastructure\\Omni.Infrastructure.csproj|c:\\users\\binhnt.it\\omniminierp\\src\\omni.infrastructure\\modulemodelconfigurations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{25549888-A541-446F-A6EE-650A9C9775A9}|src\\Omni.Infrastructure\\Omni.Infrastructure.csproj|solutionrelative:src\\omni.infrastructure\\modulemodelconfigurations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25549888-A541-446F-A6EE-650A9C9775A9}|src\\Omni.Infrastructure\\Omni.Infrastructure.csproj|c:\\users\\binhnt.it\\omniminierp\\src\\omni.infrastructure\\omnidbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{25549888-A541-446F-A6EE-650A9C9775A9}|src\\Omni.Infrastructure\\Omni.Infrastructure.csproj|solutionrelative:src\\omni.infrastructure\\omnidbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7611376-3A0F-4290-BF8A-B2EB38E11255}|src\\Omni.Modules.Todo\\Omni.Modules.Todo.csproj|c:\\users\\binhnt.it\\omniminierp\\src\\omni.modules.todo\\omni.modules.todo.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{D7611376-3A0F-4290-BF8A-B2EB38E11255}|src\\Omni.Modules.Todo\\Omni.Modules.Todo.csproj|solutionrelative:src\\omni.modules.todo\\omni.modules.todo.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A07DFA58-53FC-4471-AC8F-CFC40D65BCC0}|src\\Omni.Modules.Base\\Omni.Modules.Base.csproj|c:\\users\\binhnt.it\\omniminierp\\src\\omni.modules.base\\omni.modules.base.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{A07DFA58-53FC-4471-AC8F-CFC40D65BCC0}|src\\Omni.Modules.Base\\Omni.Modules.Base.csproj|solutionrelative:src\\omni.modules.base\\omni.modules.base.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A07DFA58-53FC-4471-AC8F-CFC40D65BCC0}|src\\Omni.Modules.Base\\Omni.Modules.Base.csproj|c:\\users\\binhnt.it\\omniminierp\\src\\omni.modules.base\\basestartup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A07DFA58-53FC-4471-AC8F-CFC40D65BCC0}|src\\Omni.Modules.Base\\Omni.Modules.Base.csproj|solutionrelative:src\\omni.modules.base\\basestartup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\binhnt.it\\OmniMiniERP\\src\\Omni.Web\\Program.cs",
+              "RelativeDocumentMoniker": "src\\Omni.Web\\Program.cs",
+              "ToolTip": "C:\\Users\\binhnt.it\\OmniMiniERP\\src\\Omni.Web\\Program.cs",
+              "RelativeToolTip": "src\\Omni.Web\\Program.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABUAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-19T02:20:34.584Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ModuleModelConfigurations.cs",
+              "DocumentMoniker": "C:\\Users\\binhnt.it\\OmniMiniERP\\src\\Omni.Infrastructure\\ModuleModelConfigurations.cs",
+              "RelativeDocumentMoniker": "src\\Omni.Infrastructure\\ModuleModelConfigurations.cs",
+              "ToolTip": "C:\\Users\\binhnt.it\\OmniMiniERP\\src\\Omni.Infrastructure\\ModuleModelConfigurations.cs",
+              "RelativeToolTip": "src\\Omni.Infrastructure\\ModuleModelConfigurations.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-19T02:09:36.145Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Domain.cs",
+              "DocumentMoniker": "C:\\Users\\binhnt.it\\OmniMiniERP\\src\\Omni.Modules.Todo\\Domain.cs",
+              "RelativeDocumentMoniker": "src\\Omni.Modules.Todo\\Domain.cs",
+              "ToolTip": "C:\\Users\\binhnt.it\\OmniMiniERP\\src\\Omni.Modules.Todo\\Domain.cs",
+              "RelativeToolTip": "src\\Omni.Modules.Todo\\Domain.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-19T02:13:52.592Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ModelConfig.cs",
+              "DocumentMoniker": "C:\\Users\\binhnt.it\\OmniMiniERP\\src\\Omni.Modules.Todo\\ModelConfig.cs",
+              "RelativeDocumentMoniker": "src\\Omni.Modules.Todo\\ModelConfig.cs",
+              "ToolTip": "C:\\Users\\binhnt.it\\OmniMiniERP\\src\\Omni.Modules.Todo\\ModelConfig.cs",
+              "RelativeToolTip": "src\\Omni.Modules.Todo\\ModelConfig.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-19T02:14:15.64Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TodoStartup.cs",
+              "DocumentMoniker": "C:\\Users\\binhnt.it\\OmniMiniERP\\src\\Omni.Modules.Todo\\TodoStartup.cs",
+              "RelativeDocumentMoniker": "src\\Omni.Modules.Todo\\TodoStartup.cs",
+              "ToolTip": "C:\\Users\\binhnt.it\\OmniMiniERP\\src\\Omni.Modules.Todo\\TodoStartup.cs",
+              "RelativeToolTip": "src\\Omni.Modules.Todo\\TodoStartup.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-19T02:11:41.223Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\binhnt.it\\OmniMiniERP\\src\\Omni.Web\\appsettings.json",
+              "RelativeDocumentMoniker": "src\\Omni.Web\\appsettings.json",
+              "ToolTip": "C:\\Users\\binhnt.it\\OmniMiniERP\\src\\Omni.Web\\appsettings.json",
+              "RelativeToolTip": "src\\Omni.Web\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-09-19T02:20:30.084Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "OmniDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\binhnt.it\\OmniMiniERP\\src\\Omni.Infrastructure\\OmniDbContext.cs",
+              "RelativeDocumentMoniker": "src\\Omni.Infrastructure\\OmniDbContext.cs",
+              "ToolTip": "C:\\Users\\binhnt.it\\OmniMiniERP\\src\\Omni.Infrastructure\\OmniDbContext.cs",
+              "RelativeToolTip": "src\\Omni.Infrastructure\\OmniDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-19T02:21:07.613Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Omni.Modules.Todo",
+              "DocumentMoniker": "C:\\Users\\binhnt.it\\OmniMiniERP\\src\\Omni.Modules.Todo\\Omni.Modules.Todo.csproj",
+              "RelativeDocumentMoniker": "src\\Omni.Modules.Todo\\Omni.Modules.Todo.csproj",
+              "ToolTip": "C:\\Users\\binhnt.it\\OmniMiniERP\\src\\Omni.Modules.Todo\\Omni.Modules.Todo.csproj",
+              "RelativeToolTip": "src\\Omni.Modules.Todo\\Omni.Modules.Todo.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-09-19T02:10:59.361Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "BaseStartup.cs",
+              "DocumentMoniker": "C:\\Users\\binhnt.it\\OmniMiniERP\\src\\Omni.Modules.Base\\BaseStartup.cs",
+              "RelativeDocumentMoniker": "src\\Omni.Modules.Base\\BaseStartup.cs",
+              "ToolTip": "C:\\Users\\binhnt.it\\OmniMiniERP\\src\\Omni.Modules.Base\\BaseStartup.cs",
+              "RelativeToolTip": "src\\Omni.Modules.Base\\BaseStartup.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABIAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-19T02:08:23.316Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Omni.Modules.Base",
+              "DocumentMoniker": "C:\\Users\\binhnt.it\\OmniMiniERP\\src\\Omni.Modules.Base\\Omni.Modules.Base.csproj",
+              "RelativeDocumentMoniker": "src\\Omni.Modules.Base\\Omni.Modules.Base.csproj",
+              "ToolTip": "C:\\Users\\binhnt.it\\OmniMiniERP\\src\\Omni.Modules.Base\\Omni.Modules.Base.csproj",
+              "RelativeToolTip": "src\\Omni.Modules.Base\\Omni.Modules.Base.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-09-19T02:08:11.238Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

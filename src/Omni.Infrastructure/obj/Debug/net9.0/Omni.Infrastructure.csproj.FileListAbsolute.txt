@@ -1,0 +1,17 @@
+C:\Users\binhnt.it\OmniMiniERP\src\Omni.Infrastructure\bin\Debug\net9.0\Omni.Infrastructure.deps.json
+C:\Users\binhnt.it\OmniMiniERP\src\Omni.Infrastructure\bin\Debug\net9.0\Omni.Infrastructure.runtimeconfig.json
+C:\Users\binhnt.it\OmniMiniERP\src\Omni.Infrastructure\bin\Debug\net9.0\Omni.Infrastructure.dll
+C:\Users\binhnt.it\OmniMiniERP\src\Omni.Infrastructure\bin\Debug\net9.0\Omni.Infrastructure.pdb
+C:\Users\binhnt.it\OmniMiniERP\src\Omni.Infrastructure\bin\Debug\net9.0\Omni.Core.dll
+C:\Users\binhnt.it\OmniMiniERP\src\Omni.Infrastructure\bin\Debug\net9.0\Omni.Core.pdb
+C:\Users\binhnt.it\OmniMiniERP\src\Omni.Infrastructure\obj\Debug\net9.0\Omni.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\binhnt.it\OmniMiniERP\src\Omni.Infrastructure\obj\Debug\net9.0\Omni.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\binhnt.it\OmniMiniERP\src\Omni.Infrastructure\obj\Debug\net9.0\Omni.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\binhnt.it\OmniMiniERP\src\Omni.Infrastructure\obj\Debug\net9.0\Omni.Infrastructure.AssemblyInfo.cs
+C:\Users\binhnt.it\OmniMiniERP\src\Omni.Infrastructure\obj\Debug\net9.0\Omni.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\binhnt.it\OmniMiniERP\src\Omni.Infrastructure\obj\Debug\net9.0\Omni.Inf.EB5670C2.Up2Date
+C:\Users\binhnt.it\OmniMiniERP\src\Omni.Infrastructure\obj\Debug\net9.0\Omni.Infrastructure.dll
+C:\Users\binhnt.it\OmniMiniERP\src\Omni.Infrastructure\obj\Debug\net9.0\refint\Omni.Infrastructure.dll
+C:\Users\binhnt.it\OmniMiniERP\src\Omni.Infrastructure\obj\Debug\net9.0\Omni.Infrastructure.pdb
+C:\Users\binhnt.it\OmniMiniERP\src\Omni.Infrastructure\obj\Debug\net9.0\Omni.Infrastructure.genruntimeconfig.cache
+C:\Users\binhnt.it\OmniMiniERP\src\Omni.Infrastructure\obj\Debug\net9.0\ref\Omni.Infrastructure.dll

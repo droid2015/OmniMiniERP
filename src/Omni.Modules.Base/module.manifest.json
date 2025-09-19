@@ -1,0 +1,8 @@
+{
+    "name": "omni.base",
+    "title": "Omni.Modules.Base",
+    "version": "1.0.0",
+    "depends": [],
+    "migrationsAssembly": "Omni.Modules.Base",
+    "installable": true
+}
